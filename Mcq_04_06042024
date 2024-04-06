@@ -1,0 +1,58 @@
+1. How do you access an element in an array in Java? 
+a) By using the element's value 
+
+b) By using the element's index 
+
+c) By using the element's key 
+
+d) By using the element's label
+
+
+2. What happens if you try to access an array element with an index that is out of bounds? 
+a) A runtime exception is thrown 
+
+b) The program terminates abruptly 
+
+c) The element value is set to null 
+
+d) The element value is set to 0 
+
+
+3. Which is not a true statement about an array?
+a) An array expands automatically when it is full.
+
+b) An array is allowed to contain duplicate values.
+
+c) An array understands the concept of ordered elements.
+
+d) An array uses a zero index to reference the first element.
+
+
+
+4. What will be the output of the following Java program?
+
+    class selection_statements 
+    {
+        public static void main(String args[])
+        {
+            int var1 = 5; 
+            int var2 = 6;
+            if ((var2 = 1) == var1)
+                System.out.print(var2);
+            else 
+                System.out.print(++var2);
+        } 
+    }
+a) 1
+b) 2
+c) 3
+d) 4
+
+
+5. Which of these are selection statements in Java?
+a) if()
+b) for()
+c) continue
+d) break
+
+
